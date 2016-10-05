@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>tmAddTemplates</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Templates</shortDescription>
+        <value>Add Templates</value>
+    </labels>
+    <labels>
+        <fullName>tmAddProducts</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Products</shortDescription>
+        <value>Add Products</value>
+    </labels>
+    <labels>
+        <fullName>tmTFRDeleteMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trial Feature Request cannot be deleted</shortDescription>
+        <value>Trial Feature Request cannot be deleted</value>
+    </labels>
+    <labels>
+        <fullName>tmInvalidBillingAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Billing Address details incomplete</shortDescription>
+        <value>Account Billing Address details incomplete</value>
+    </labels>
+    <labels>
+        <fullName>tmInvalidISOCountryCode</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ISO country code must be two chars</shortDescription>
+        <value>Please enter a valid, two-digit ISO country code</value>
+    </labels>
+    <labels>
+        <fullName>tmAccountTFRRequired</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Id or Trial Feature Request Id is required</shortDescription>
+        <value>Account Id or Trial Feature Request Id is required to access Trial Org Provisioning page</value>
+    </labels> 
+    <labels>
+        <fullName>tmAccountTenantRequired</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Id or Tenant Id is required</shortDescription>
+        <value>Account Id or Tenant Id is required to retreive provisioned trial contract and order info</value>
+    </labels>     
+    <labels>
+        <fullName>tmTenantRequired</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Force.com tenant is required to create a trial feature request</shortDescription>
+        <value>A trial Force.com tenant is required to create a trial feature request</value>
+    </labels> 
+    <labels>
+        <fullName>tmTFRInitializeFailed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Unable to initializing a trial feature request</shortDescription>
+        <value>Unable to initialize a trial feature request</value>
+    </labels>     
+    <labels>
+        <fullName>tmTFRSaveFailed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Unable to save a trial feature request</shortDescription>
+        <value>Unable to save a trial feature request</value>
+    </labels> 
+    <labels>
+        <fullName>tmTFRSubmitForApprovalFailed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error submitting trial feature request for approval</shortDescription>
+        <value>Error submitting trial feature request for approval</value>
+    </labels>    
+    <labels>
+        <fullName>tmTFROrderCreationFailed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error occured while submitting trial feature request for provisioning</shortDescription>
+        <value>Error occured while submitting trial feature request for provisioning</value>
+    </labels> 
+    <labels>
+        <fullName>tmOrgChanged</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Org Edition changed since last trial request provisioned</shortDescription>
+        <value>The Account you are attempting to log this request against can no longer support further Trial Feature Requests. Please contact your regional Sales Ops group for assistance.</value>
+    </labels>  
+    <labels>                  
+        <fullName>tmAccountName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAccountName</shortDescription>
+        <value>Account</value>
+    </labels>
+    <labels>
+        <fullName>tmAction</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAction</shortDescription>
+        <value>Action</value>
+    </labels>
+    <labels>
+        <fullName>tmAdditionalQty</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAdditionalQty</shortDescription>
+        <value>Additional Quantity</value>
+    </labels>
+    <labels>
+        <fullName>tmAvailableProducts</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAvailableProducts</shortDescription>
+        <value>Available Products:</value>
+    </labels>
+    <labels>
+        <fullName>tmFilterByTemplateName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmFilterByTemplateName</shortDescription>
+        <value>Filter by Template Name</value>
+    </labels>
+    <labels>
+        <fullName>tmAvailableTemplates</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAvailableTemplates</shortDescription>
+        <value>Available Templates:</value>
+    </labels>
+    <labels>
+        <fullName>tmCancel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmCancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>tmDelete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmDelete</shortDescription>
+        <value>Delete</value>
+    </labels>
+    <labels>
+        <fullName>tmAccountInformation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmAccountInformation</shortDescription>
+        <value>Account Information</value>
+    </labels>    
+    <labels>
+        <fullName>tmEdition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmEdition</shortDescription>
+        <value>Edition</value>
+    </labels>
+    <labels>
+        <fullName>tmFilterByProductName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmFilterByProductName</shortDescription>
+        <value>Filter by Product Name</value>
+    </labels>
+    <labels>
+        <fullName>tmProduct</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmProduct</shortDescription>
+        <value>Product Name</value>
+    </labels>
+    <labels>
+        <fullName>tmProductSelection</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmProductSelection</shortDescription>
+        <value>Product Selection</value>
+    </labels>
+    <labels>
+        <fullName>tmProvisionedQty</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmProvisionedQty</shortDescription>
+        <value>Provisioned Quantity</value>
+    </labels>
+    <labels>
+        <fullName>tmProvisioningView</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmProvisioningView</shortDescription>
+        <value>Provisioning View</value>
+    </labels>
+    <labels>
+        <fullName>tmSave</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmSave</shortDescription>
+        <value>Save</value>
+    </labels>    
+    <labels>
+        <fullName>tmSaveAndSubmit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmSaveAndSubmit</shortDescription>
+        <value>Save &amp; Submit</value>
+    </labels>
+    <labels>
+        <fullName>tmSaved</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmSaved</shortDescription>
+        <value>Saved...</value>
+    </labels>
+    <labels>
+        <fullName>tmSaving</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmSaving</shortDescription>
+        <value>Saving...</value>
+    </labels>
+    <labels>
+        <fullName>tmCannotEditMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmCannotEditMsg</shortDescription>
+        <value>You cannot modify this record as it is not in Draft or Rejected Status.</value>
+    </labels>
+    <labels>
+        <fullName>tmPositiveWholeNumberOnly</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmPositiveWholeNumberOnly</shortDescription>
+        <value>Please enter a positive whole numeric value.</value>
+    </labels>
+    <labels>
+        <fullName>tmInternalAccount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Internal Account Error</shortDescription>
+        <value>You cannot create trial feature request for an internal Salesforce account.</value>
+    </labels>    
+    <labels>
+        <fullName>tmInvalidEdition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Edition</shortDescription>
+        <value>This org edition does not support the use of trial feature requests.</value>
+    </labels>  
+    <labels>
+        <fullName>tmMissingTFRItems</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Missing Trial Feature Request items</shortDescription>
+        <value>Atleast one product is required to save a trial feature request</value>
+    </labels>
+    <labels>
+        <fullName>tmUpgradeTFRCoreProductCount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmUpgradeTFRCoreProductCount</shortDescription>
+        <value>You must request a license quantity equal to or greater than the quantity currently provisioned on the org.</value>
+    </labels>
+    <labels>
+        <fullName>tmBack</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmBack</shortDescription>
+        <value>Back</value>
+    </labels>
+    <labels>
+        <fullName>tmDeleteProcessing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmDeleteProcessing</shortDescription>
+        <value>Processing...</value>
+    </labels>   
+    <labels>
+        <fullName>tmCountryName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmCountryName</shortDescription>
+        <value>Country</value>
+    </labels>
+    <labels>
+        <fullName>tmCountryChangeConfirmation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>tmCountryChangeConfirmation</shortDescription>
+        <value>Changing the country will delete previously selected products. Are you sure?</value>
+    </labels>
+    <labels>
+        <fullName>tmCurrentEdition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Edition</shortDescription>
+        <value>Current Edition</value>
+    </labels>
+    <labels>
+        <fullName>tmUpgrade</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upgrade</shortDescription>
+        <value>Upgrade</value>
+    </labels>
+    <labels>
+        <fullName>tmUpgradeTo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upgrade To</shortDescription>
+        <value>Upgrade To</value>
+    </labels>
+    <labels>
+        <fullName>tmCancelUpgradeTo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancel Upgrade</shortDescription>
+        <value>Cancel Upgrade</value>
+    </labels>
+     <labels>
+        <fullName>tmUpgradeMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You are requesting an upgrade of this trial org</shortDescription>
+        <value>You are requesting an upgrade of this trial org. Please note that you will have to re-request any features previously enabled on the trial org, where applicable. Please also note that once a trial org's edition is upgraded, it cannot be downgraded through a Trial Feature Request.</value>
+    </labels>
+    </CustomLabels>
