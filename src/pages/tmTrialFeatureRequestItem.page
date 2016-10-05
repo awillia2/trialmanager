@@ -1,0 +1,11 @@
+<apex:page standardController="tmTrialFeatureRequestItem__c" showHeader="false" sidebar="false" standardStylesheets="false">
+  <head>
+    <script src="/soap/ajax/30.0/connection.js"></script>
+    <script src="/soap/ajax/30.0/apex.js"></script>
+    <script src="/js/functions.js"></script>
+    <script>
+    	var tfrId ="{!JSINHTMLENCODE(tmTrialFeatureRequestItem__c.TrialFeatureRequest__c)}";
+    	parent.location.href = '/apex/tmTrialFeatureRequest?id='+tfrId;
+    </script>
+  </head>
+</apex:page>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata" isAvailableInTouch="true">
+    <apiVersion>34.0</apiVersion>
+    <label>tmDelTrialFeatureRequest</label>
+    <availableInTouch>true</availableInTouch>
+</ApexPage>

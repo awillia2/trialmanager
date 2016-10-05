@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <visibility>Public</visibility>
+    <description>Trial Featrue Request Demo Access Profiles</description>
+    <enableEnhancedLookup>false</enableEnhancedLookup>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>AllowDemoAccess__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Toggles access to demo products for profile or user.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Toggles access to demo Products for profile or user.</inlineHelpText>
+        <label>Allow Demo Access</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <label>TM Allow Demo Product Access</label>
+</CustomObject>
