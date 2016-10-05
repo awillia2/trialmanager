@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
-    <available>true</available>
-    <encodingKey>ISO-8859-1</encodingKey>
-    <name>Trial Feature Request Approval Assignment</name>
-    <style>none</style>
-    <subject>Trial Feature Request {!tmTrialFeatureRequest__c.Name} for {!tmTrialFeatureRequest__c.Account__c} requires your Approval</subject>
-    <type>text</type>
-</EmailTemplate>
